@@ -1,0 +1,3 @@
+title=Testapp_1.0
+author=juga
+orientation=landscape
