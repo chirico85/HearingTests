@@ -1,8 +1,18 @@
 #!/usr/bin/env python
 """
 Created on Wed Mar 11 2020
-
 @author: galindo
+
+This is a python implementation of the speech test "adaptive OlSa" according to: 
+Oldenburger Satztest - Handbuch und Hintergrundwissen - version vom 25.07.2000
+Oldenburg sentence test - Manual and background knowledge - version from 25.07.2000
+by HörTech gGmbH
+references:
+Wagener, K., Kühnel, V., Kollmeier, B. (1999a) „Entwicklung und Evaluation eines Satztests in deutscher Sprache I: Design des Oldenburger Satztests“. Z Audiol 38 (1), 4-15 
+Wagener, K., Brand,T., Kollmeier, B. (1999b) „Entwicklung und Evaluation eines Satztests in deutscher Sprache II: Optimierung des Oldenburger Satztests“. Z Audiol 38 (2), 44-56 
+Wagener, K., Brand,T., Kollmeier, B. (1999c) „Entwicklung und Evaluation eines Satztests in deutscher Sprache III: Evaluation des Oldenburger Satztests“. Z Audiol 38 (3), 86-95
+
+Please read the above listed references before using to garantee correct working.
 
 """
 import numpy as np
