@@ -52,9 +52,9 @@ def startparameters_prot(Liste, serverpath):
 
 def playolsa(serverpath,pegel,nr,Listengroesse):
     if security(pegel):
-        tf = serverpath + '\olsa\CD 1\Liste1\CD1T1S'+str(nr)+'.wav'
+        tf = serverpath + '\olsa\CD 1\Liste1\CD1T1S'+str(nr)+'.wav' # Path to soundfiles
         signal, fs = sf.read(tf, dtype='float32')  
-        sd.play(signal,fs)  
+        sd.play(signal,fs)  # to be modified according to speaker setup
         start_pause = time.time()
     return start_pause
 
