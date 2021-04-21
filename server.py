@@ -2,6 +2,7 @@
 """
 Created on Wed Mar 11 2020
 @author: galindo
+julio.galindo@uniklinik-freiburg.de
 
 This is a python implementation of the speech test "adaptive OlSa" according to: 
 Oldenburger Satztest - Handbuch und Hintergrundwissen - version vom 25.07.2000

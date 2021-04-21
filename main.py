@@ -23,6 +23,9 @@ The file android.txt is used to package the application for use with the
 Kivy Launcher Android application. For Android devices, you can
 copy/paste this directory into /sdcard/kivy/showcase on your Android device.
 
+Created on Mar 11 2020
+@author: galindo
+julio.galindo@uniklinik-freiburg.de
 '''
 
 from time import time
